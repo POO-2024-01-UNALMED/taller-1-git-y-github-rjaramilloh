@@ -3,3 +3,8 @@ Rusbel Danilo Jaramillo Hincapie
 Aprender como funciona la programacion orientada objetos y
 lograr los objetivos propuestos en clase, generando un entorno agradable de trabajo en grupo
 tratando de mejorar mis conocimientos y los de mis compañeros
+
+Porque ya se crearon archivos en la carpeta 
+
+Es importante tener cuidado con la modificacion de archivos al mismo tiempo ya que puede
+generar errores asi poniendo en peligro la estabilidad y funcionamiento del programa 
